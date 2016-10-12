@@ -54,7 +54,7 @@ def run():
     print "Start Regression testing...."
 
     generated = False
-    g = GenPolyData(5, 0.1)
+    g = GenPolyData(10, 0.25)
 
     for x in range(0,5):
 
